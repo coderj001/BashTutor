@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Factorial  with while loop bash
 read -p "Enter: " num
 
 factorial=1
