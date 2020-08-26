@@ -34,7 +34,7 @@ if [[ $# -le 0 ]];then
     exit 1
 fi
 
-echo "Creating account.."
+echo "Creating account(s).."
 for x in $@;do
     PASSWORD=$( date +%s%N${RANDOM}${RANDOM} | sha1sum | head -c32 )
     useradd -m ${x}
