@@ -28,6 +28,7 @@ function back_up(){
     fi
 }
 readonly VERBOSE=true
+
 log 'Log message 1'
 log 'Log message 2'
 back_up '/etc/passwd'
