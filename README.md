@@ -1,13 +1,8 @@
-# BASH SCRIPTING
+# SHELL SCRIPTING
 
-Have you tried to learn shell scripting on your own, but lack the structure you need to really improve your skills?
-Are you tired of picking up bits and pieces of information that you can't just seem to put together?
-Do you learn best by doing?
-If so, you're going to love this course.
-One of the biggest complaints I hear from students is that most of the courses they've taken in the past simply provide information without any context and without any idea of how to put that information to use!
-This course turns that old, frustrating, and outdated way of learning on its head.
-It's project-based, which means instead of learning bits and pieces of information, you'll write actual shell scripts that you can use in real-world situations. You get the chance to immediately put what you learn to use so that you fully understand and remember it.
-In this Linux shell scripting course you will learn how to:
+A shell is a command-line interpreter and typical operations performed by shell scripts include file manipulation, program execution, and printing text.
+
+### Topic Covered
 
 - Name your shell scripts.
 - Use the proper permissions on your shell scripts.
@@ -29,3 +24,7 @@ In this Linux shell scripting course you will learn how to:
 - Creating functions and when to do so.
 - Parsing, analyzing, and reporting on log files, CSV files, and other data.
 - Writing scripts that execute commands on other systems.
+
+<br />
+
+Each exercies folder have Readme, pdf and Vagrant config file use it to run the script.
